@@ -1,0 +1,37 @@
+<html>
+  <head>
+    <title>Estilos tremendos 2</title>
+    <style>
+      h1{color:#8A89C0;
+      background-color:#54C6EB;
+      border-color:#CDA2AB;
+      }
+      p{color:#048A81
+      }
+      table{width: 80%;
+      border: 1px solid #000;
+      }
+      th, td{width: 33%;
+      text-align: center;
+      border: 1px solid #000;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Esto es un ejemplo de lo que no se debe hacer con los colores de coolors.co</h1>
+    <table>
+           <tr>
+              <th>Carne</th>
+              <th>Pescado</th>
+              <th>Frutas y verduras</th>
+          </tr>
+          <tr>
+              <td>10%</td>
+              <td>20%</td>
+              <td>70%</td>
+          </tr>
+     </table>
+    <p>Esta tabla es una prueba, el contenido es aleatorio. Por fin estoy empezando a entenderlo :)</p>
+   </body>
+ </html>
+    
