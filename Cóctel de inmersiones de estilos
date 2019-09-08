@@ -1,13 +1,20 @@
 <html>
   <head>
-    <title>Upgrade formación - Ejercicio Mariona360</title>
+    <title>Upgrade formaci&oacute;n - Ejercicio Mariona360</title>
+     <link rel="stylesheet" href="style.css">
      <style>
-       h1 {
-         color:3943B7;
-         background-color:solid black;
-         }
-       p {
-         color:#372554;
-       }
+      table {
+        width: 80%;
+	      border: 1px solid #000;
+	      }
+	      th, td{
+        width: 33%;
+	      text-align: center;
+	      border: 1px solid #000;
+        border-spacing: 0;
+	      }
      </style>
   </head>
+  <body>
+  <h1>Esto es una inmersi &oacute;n de estilos<h1/>
+  <p>No s&eacute; como va a quedar, pero espero haber arreglado las tildes</p>
