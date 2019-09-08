@@ -16,5 +16,18 @@
      </style>
   </head>
   <body>
-  <h1>Esto es una inmersi &oacute;n de estilos<h1/>
+  <h1>Esto es una inmersi&oacute;n de estilos<h1/>
+  <table>
+           <tr>
+              <th>Carne</th>
+              <th>Pescado</th>
+              <th>Frutas y verduras</th>
+          </tr>
+          <tr>
+              <td>10%</td>
+              <td>20%</td>
+              <td>70%</td>
+          </tr>
+     </table>
   <p>No s&eacute; como va a quedar, pero espero haber arreglado las tildes</p>
+<div style="color:#231123;">Confieso que poner el estilo en la misma línea no me gusta</div>
